@@ -1,10 +1,3 @@
-"""
-Created on Fri Jun 3 20:05:19 2021
-@author: CHANDHINII
-Project: Handwritten equation solver
-Project: Model_training
-"""
-
 import pandas as pd
 import numpy as np
 import pickle
